@@ -1,10 +1,8 @@
-# EXPERIMENT--01-ALP-FOR-8086
+# EXPERIMENT--01-ALP FOR-8086
 
 Name : SARGURU K
 
 Roll no : 212222230134
-
-Date of experiment : 
 
 
 ## Aim: 

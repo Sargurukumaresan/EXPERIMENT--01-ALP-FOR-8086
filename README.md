@@ -1,10 +1,7 @@
-# EXPERIMENT-01 ALP FOR 8086
+#### NAME : SARGURU K
+#### ROLL NO : 212222230134
 
-Name : SARGURU K
-
-Roll no : 212222230134
-
-
+# EXPERIMENT 01 ALP FOR 8086
 ## Aim: 
 To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 
